@@ -207,3 +207,10 @@ Run VeriBoost with interactive mode.
 ```bash
 java -jar allinone/target/allinone-bundle-0.36.0.jar -runmode interactive -loglevel info -batfishmode workservice -coordinatorargs "-templatedirs questions"
 ```
+
+## Developer
+- Ning Kang (kangning2018@foxmail.com)
+- Peng Zhang (p-zhang@xjtu.edu.cn)
+
+## License
+VeriBoost is released under [license](LICENSE).
